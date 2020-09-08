@@ -1,0 +1,7 @@
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\obj\Debug\VarPrim.csprojAssemblyReference.cache
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\obj\Debug\VarPrim.csproj.CoreCompileInputs.cache
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\bin\Debug\VarPrim.exe.config
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\bin\Debug\VarPrim.exe
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\bin\Debug\VarPrim.pdb
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\obj\Debug\VarPrim.exe
+C:\Users\Shubh\Desktop\The UGZ Foundation Coding Course\Coding\Game Development (Recommended)\C#\Learning C#\2. Primitive Types & Variables\VarPrim\VarPrim\obj\Debug\VarPrim.pdb
